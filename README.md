@@ -206,5 +206,5 @@ WHERE Ranking <= 5;
 ---
 
 ## 👤 Author
-**Khristian Angelo**
+**Khristian Angelo TIu**
 - GitHub: [@khristianangelo18](https://github.com/khristianangelo18)
